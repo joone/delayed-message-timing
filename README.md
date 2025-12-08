@@ -4,7 +4,7 @@ Author: [Joone Hur](https://github.com/joone)
 
 # Participate
 
-- [Issue tracker](https://github.com/MicrosoftEdge/MSEdgeExplainers/labels/DelayedMessages)
+- [Issue tracker](https://github.com/WICG/delayed-message-timing/issues)
 
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
